@@ -1,4 +1,4 @@
 class Charly {
     name: string
-    sex: "Gay"
+    sex: "Masculino"
 }
