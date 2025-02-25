@@ -1,5 +1,6 @@
 class Charly {
     name: string
+    age: number
 }
 
 
